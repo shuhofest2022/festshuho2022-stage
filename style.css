@@ -270,7 +270,7 @@ nav {
 .menu {
 
     text-align: center;
-    background-color: rgba(108, 224, 219, 1);
+    background-color: rgba(35,82,196, 1);
     transition: 0.5s ease;
     /*滑らかに表示*/
     -webkit-transform: translateX(100%);
